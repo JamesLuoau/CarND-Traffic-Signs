@@ -4,3 +4,12 @@ data
 models
 *.swp
 *.p
+/traffic/test_next_batch_with_generator/
+/traffic/test_data_generator_factory/
+/traffic/test_data_enhancement/
+/traffic/lenet_keras_generator/
+/traffic/explorer/
+/traffic/model_comparison/
+__pycache__
+.idea
+/traffic/MNIST_data/
